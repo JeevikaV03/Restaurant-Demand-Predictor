@@ -151,4 +151,4 @@ streamlit run dashboard/app.py
 
 Electrical and Electronics Engineering Student
 
-Vellore Institute of Technology, Chennai
+Prince Shri Venkateshwara Padmavathy Engineering College, Chennai
